@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**Contact Me**
+📧 E-mail: thalesvieira@usp.br
+👨‍💼 Linkedin: https://www.linkedin.com/in/thales-vieira-rodrigues-79aa80212/
