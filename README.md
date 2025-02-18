@@ -16,7 +16,7 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
-<h1 align="center">**Contact Me**
+<h1 align="center">📨 Contact Me
 
 
   [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thalesvieira@usp.br)
