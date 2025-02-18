@@ -1,4 +1,6 @@
-## Hi 👋! Nice to meet you 🙂, I'm Thales Rodrigues 🇧🇷
+## Hi 👋! 
+
+## Nice to meet you 🙂, I'm Thales Rodrigues 🇧🇷
 
 
 
