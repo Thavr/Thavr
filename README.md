@@ -12,7 +12,7 @@
 
 <p align="left">📆 Project & Team Management: Skilled in organizing tasks, optimizing workflows, and collaborating in multidisciplinary teams.
 
-<p align="left">🧠 Adaptability & Continuous Learning: Quick learner with a passion for innovation, always exploring new technologies and methodologies.
+<p align="left">🧠 Adaptability & Continuous Learning: Quick and curious learner with a passion for innovation, always exploring new technologies.
 
 
 <h1 align="center">👨‍💻 Languages and technologies I work with
