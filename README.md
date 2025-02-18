@@ -4,7 +4,7 @@
 
 <p align="left">👨‍🔬 Currently, I'm also an **undergraduate researcher** at the Physiological Genomics Lab of Mental Health ICB-USP and a **Trainee** at computer programming-focused student organization FEA.dev
 
-<h1 align="center">🚀My skills 
+<h1 align="center">🚀My skills</h2> 
   
 <p align="left">💻 Technical Skills: Proficient in Bash scripting and Linux environments; Basic knowledge of Python for data analysis and automation.
   
