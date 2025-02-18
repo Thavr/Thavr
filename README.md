@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋!<br> Nice to meet you 🙂, I'm Thales Rodrigues 🇧🇷</h1>
+<h1 align="center">Hi 👋! Nice to meet you 🙂<br> I'm Thales Rodrigues 🇧🇷</h1>
 
 📚 I'm a 9th semester **Biotechnology** student at University of São Paulo (USP) 
 
