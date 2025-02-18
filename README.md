@@ -1,4 +1,4 @@
-## Hi there 👋
+## Thales Vieira Rodrigues 🇧🇷
 
 <!--
 **Thavr/Thavr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 **Contact Me**
 
 📧 E-mail: thalesvieira@usp.br
+
 👨‍💼 Linkedin: https://www.linkedin.com/in/thales-vieira-rodrigues-79aa80212/
