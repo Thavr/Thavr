@@ -5,9 +5,18 @@
 <p align="left">👨‍🔬 Currently, I'm also an **undergraduate researcher** at the Physiological Genomics Lab of Mental Health ICB-USP and a **Trainee** at computer programming-focused student organization FEA.dev
 
 <h1 align="center">🚀My skills 
+  
+💻 Technical Skills: Proficient in Bash scripting and Linux environments; Basic knowledge of Python for data analysis and automation.
+  
+🥼📊 Problem-Solving & Research: Experience in scientific research and data-driven decision-making, with a structured approach to problem-solving.
+
+📆 Project & Team Management: Skilled in organizing tasks, optimizing workflows, and collaborating in multidisciplinary teams.
+
+🧠 Adaptability & Continuous Learning: Quick learner with a passion for innovation, always exploring new technologies and methodologies.
 
 
 <h1 align="center">👨‍💻 Languages and technologies I work with
+
 
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
