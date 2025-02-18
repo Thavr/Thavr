@@ -6,13 +6,13 @@
 
 <h1 align="center">🚀My skills 
   
-💻 Technical Skills: Proficient in Bash scripting and Linux environments; Basic knowledge of Python for data analysis and automation.
+<p align="left">💻 Technical Skills: Proficient in Bash scripting and Linux environments; Basic knowledge of Python for data analysis and automation.
   
-🥼📊 Problem-Solving & Research: Experience in scientific research and data-driven decision-making, with a structured approach to problem-solving.
+<p align="left">🥼📊 Problem-Solving & Research: Experience in scientific research and data-driven decision-making, with a structured approach to problem-solving.
 
-📆 Project & Team Management: Skilled in organizing tasks, optimizing workflows, and collaborating in multidisciplinary teams.
+<p align="left">📆 Project & Team Management: Skilled in organizing tasks, optimizing workflows, and collaborating in multidisciplinary teams.
 
-🧠 Adaptability & Continuous Learning: Quick learner with a passion for innovation, always exploring new technologies and methodologies.
+<p align="left">🧠 Adaptability & Continuous Learning: Quick learner with a passion for innovation, always exploring new technologies and methodologies.
 
 
 <h1 align="center">👨‍💻 Languages and technologies I work with
