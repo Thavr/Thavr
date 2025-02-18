@@ -1,6 +1,8 @@
-## Hi 👋! 
+## Hi 👋! Nice to meet you 🙂, I'm Thales Rodrigues 🇧🇷
 
-## Nice to meet you 🙂, I'm Thales Rodrigues 🇧🇷
+📚 I'm a 9th semester **Biotechnology** student at University of São Paulo (USP) 
+👨‍🔬 Currently, I'm also an **undergraduate researcher** at the Physiological Genomics Lab of Mental Health ICB-USP and a **Trainee** at programming-focused student organization FEA.dev
+
 
 
 
